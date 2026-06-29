@@ -1,5 +1,7 @@
 # Guion de exposición: Sistemas Expertos
 
+Liga del video: https://youtu.be/7dBiwmknuYM
+
 ## Introducción
 
 Hola, mi nombre es **Brian Jeshua Celis Pimienta**, y en esta ocasión les hablaré sobre un tema muy importante dentro de la Inteligencia Artificial: **los Sistemas Expertos**.
